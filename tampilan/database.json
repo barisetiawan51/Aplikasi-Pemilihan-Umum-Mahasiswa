@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "2103040139",
+      "password": "-",
+      "nama": "Imam Bari Setiawan",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6283108175245",
+      "foto": "../Image/paslon1.jpg"
+    },
+    {
+      "username": "2103040129",
+      "password": "-",
+      "nama": "Febrian Adi Prasetyo",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6281223007568",
+      "foto": "../Image/paslon2.png"
+    },
+    {
+      "nama": "pass",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6289879669868",
+      "username": "user",
+      "password": "pass"
+    },
+    {
+      "nama": "pass",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6289879669868",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Kandidat 1",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Kandidat 2",
+      "votes": 0
+    }
+  ]
+}
